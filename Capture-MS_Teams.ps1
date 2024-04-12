@@ -29,7 +29,7 @@
     Shout-Out: https://roderikdeblock.com/automate-the-complete-capturing-process-using-app-volumes-tools/
 
 .EXAMPLE
-    & .\New_msTeams_AppVol.ps1
+    & .\Capture-MS_Teams.ps1
 
 #>
 
