@@ -1,0 +1,12 @@
+# Log files
+*.log
+
+# Large Files
+*.msi
+*.exe
+*.iso
+
+# other ignores
+.DS_STORE
+
+#
